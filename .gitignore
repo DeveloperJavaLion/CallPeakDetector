@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+Будет удалено .gitignore
+Будет удалено out/
+.target/
+out/
+.idea/
+
